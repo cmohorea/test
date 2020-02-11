@@ -4,6 +4,10 @@ Awesome text
 4th line!
 5th
 6th of May
+<<<<<<< HEAD
 New line
 New line
+=======
+Branch Test2 - Again!
+>>>>>>> test2
 
