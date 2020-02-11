@@ -4,5 +4,6 @@ Awesome text
 4th line!
 5th
 6th of May
+Branch Test2
 
 Testing branching - test
