@@ -4,15 +4,4 @@ Awesome text
 4th line!
 5th
 6th of May
-<<<<<<< HEAD
-<<<<<<< HEAD
-New line
-New line
-=======
-Branch Test2 - Again!
->>>>>>> test2
-=======
-Branch Test2 - I want this change too!
->>>>>>> test
-
-Testing branching - test
+Just some extra text
